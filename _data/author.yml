@@ -1,12 +1,6 @@
 name: "Gabriel Jones"
 dp: "https://gjdev-org.github.io/jekyll-theme-material-you//assets/images/IMG_20240808_184050_862.jpg"
-title: "Hey i'm Gabriel!"
-description: "
-  <p>
-    No content
-    </p>
-  <br/>
-  "
+description: 
 email: gabriel.jones@mail.urp.gjdev.it
 contact:
   - title: github
