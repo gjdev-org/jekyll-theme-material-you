@@ -1,12 +1,12 @@
-title: Jekyll Material You
+title: Gabriel Jones Dev!
 markdown: kramdown
-# url: ""
+# url: "https://gjdev-org.github.io"
 # baseurl: "/jekyll-theme-material-you"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Gabriel Jones
+  email: Gabriel.jones@mail.urp.gjdev.it
 
 plugins:
   - jemoji
